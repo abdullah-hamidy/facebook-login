@@ -1,0 +1,14 @@
+{
+    "name": "shahroz/fbapi",
+    "description": "facebook api",
+    "authors": [
+        {
+            "name": "Shahroz Nawaz",
+            "email": "shahroze.nawaz@cloudways.com"
+        }
+    ],
+    "require": {
+    
+     "facebook/graph-sdk" : "~5.0"
+    }
+}
